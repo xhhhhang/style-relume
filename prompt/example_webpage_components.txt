@@ -1,0 +1,7 @@
+navbar 13
+header 30
+layout 366
+layout 415
+pricing 17
+contact 5
+footer 4
